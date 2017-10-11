@@ -23,7 +23,6 @@ static AVAudioPlayer *unlimitePlayer;//无限播放
 //应用位置
 + (NSString *)getMethod;
 + (void)setMethod:(NSString*)m;
-aaaaa
 
 //打开设置
 +(void)intoSetting;
