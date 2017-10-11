@@ -1888,7 +1888,6 @@
     return dic;
 }
 
-
 //创建普通二维码
 +(void)createQRCode:(NSString*)string imgView:(UIImageView*)imgView centerImg:(UIImage*)centerImg{
     // 1. 创建一个二维码滤镜实例(CIFilter)
