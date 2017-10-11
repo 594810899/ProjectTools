@@ -21,6 +21,9 @@
 
 //本地查看文件 （非web）
 +(void)viewFileInLocal:(NSString*)path filename:(NSString*)filename tail:(NSString*)tail;
+
+
+
 @end
 
 

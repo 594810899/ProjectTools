@@ -18,6 +18,10 @@ static AddressbookUtil *addressBook;
 
 @interface AddressbookUtil : NSObject<CNContactPickerDelegate>{
     
+    
+    
+    
+    
 
 }
 
